@@ -1,4 +1,4 @@
-# DeepGamingAI_FIFA
+# Neural Network AI for FIFA 18
 A deep learning based AI bot for playing the football simulation game FIFA 18 (Windows platform).
 
 For more details, refer the following:-
@@ -9,4 +9,6 @@ Video: https://www.youtube.com/watch?v=vZFNzwv61Fk&t=59s
 
 
 # Acknowledgments
-This repository borrows parts of code from https://github.com/Sentdex/pygta5
+This repository borrows parts of code from these repos
+https://github.com/Sentdex/pygta5
+https://github.com/ChintanTrivedi/DeepGamingAI_FIFA
