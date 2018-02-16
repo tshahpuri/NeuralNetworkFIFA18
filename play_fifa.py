@@ -1,7 +1,6 @@
 # coding: utf-8
 
 # # Object Detection Demo
-# Welcome to the object detection inference walkthrough!  This notebook will walk you step by step through the process of using a pre-trained model to detect objects in an image. Make sure to follow the [installation instructions](https://github.com/tensorflow/models/blob/master/object_detection/g3doc/installation.md) before you start.
 
 # # Imports
 
@@ -26,7 +25,7 @@ from utils import visualization_utils as vis_util
 # This is needed since the notebook is stored in the object_detection folder.
 sys.path.append("..")
 
-# What model to download.
+# Model to download
 MODEL_NAME = 'fifa_graph2'
 
 # Path to frozen detection graph. This is the actual model that is used for the object detection.
